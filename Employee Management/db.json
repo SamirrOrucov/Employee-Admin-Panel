@@ -1,0 +1,16 @@
+{
+  "employee": [
+    {
+      "image": "https://www.jordanharbinger.com/wp-content/uploads/2018/09/be-the-most-interesting-360x360.jpg",
+      "name": "Samir bəy",
+      "job": "UI/UX",
+      "id": 1
+    },
+    {
+      "image": "sa",
+      "name": "Samir Orucov",
+      "job": "UI/UX",
+      "id": 2
+    }
+  ]
+}
